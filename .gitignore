@@ -1,0 +1,7 @@
+cakey.der
+cacert.der
+signkey.der
+certs/
+.gdb_history
+idea/
+goproxy
