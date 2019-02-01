@@ -10,4 +10,6 @@ $ openssl x509 -inform PEM -outform DER -in cacert.pem -out cacert.der
 
 $ openssl genrsa -out signkey.pem 2048
 $ openssl rsa -inform PEM -outform DER -in signkey.pem -out signkey.der
+
+$ mkdir certs
 ```
